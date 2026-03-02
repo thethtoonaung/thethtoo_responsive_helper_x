@@ -1,6 +1,7 @@
 name: thethtoo_responsive_helper_x
 description: Full-featured responsive helper for Flutter (mobile, tablet, desktop).
 version: 0.0.1
+homepage: https://github.com/thethtoonaung/thethtoo_responsive_helper_x
 
 environment:
   sdk: ^3.9.2
